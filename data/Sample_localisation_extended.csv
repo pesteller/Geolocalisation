@@ -1,0 +1,829 @@
+ExtractID,SamplingSite,Longitude,Latitude,Country,Subspecies
+AZA-01-01,Azagny,"-4,835","5,235",Côte d'Ivoire - South,Western
+AZA-01-02,Azagny,"-4,835","5,235",Côte d'Ivoire - South,Western
+AZA-01-03,Azagny,"-4,835","5,235",Côte d'Ivoire - South,Western
+AZA-01-06,Azagny,"-4,835","5,235",Côte d'Ivoire - South,Western
+AZA-01-08,Azagny,"-4,835","5,235",Côte d'Ivoire - South,Western
+AZA-01-09,Azagny,"-4,835","5,235",Côte d'Ivoire - South,Western
+AZA-01-10,Azagny,"-4,835","5,235",Côte d'Ivoire - South,Western
+AZA-01-11,Azagny,"-4,835","5,235",Côte d'Ivoire - South,Western
+AZA-01-12,Azagny,"-4,835","5,235",Côte d'Ivoire - South,Western
+Baf1-12,Bafing,"-10,435","12,986",Mali,Western
+Baf1-13,Bafing,"-10,435","12,986",Mali,Western
+Baf1-16,Bafing,"-10,435","12,986",Mali,Western
+Baf1-17,Bafing,"-10,435","12,986",Mali,Western
+Baf1-19,Bafing,"14,014","-2,089",Mali,Western
+Baf1-2,Bafing,"-10,435","12,986",Mali,Western
+Baf1-5,Bafing,"-10,435","12,986",Mali,Western
+Baf2-1,Bafing,"-10,435","12,986",Mali,Western
+Baf2-26,Bafing,"-10,435","12,986",Mali,Western
+Baf2-27,Bafing,"-10,435","12,986",Mali,Western
+Baf2-4,Bafing,"-10,435","12,986",Mali,Western
+Baf2-42,Bafing,"-10,435","12,986",Mali,Western
+Baf2-43,Bafing,"-10,435","12,986",Mali,Western
+Baf2-44,Bafing,"-10,435","12,986",Mali,Western
+Baf2-46,Bafing,"-10,435","12,986",Mali,Western
+Baf2-68,Bafing,"-10,435","12,986",Mali,Western
+Baf2-7,Bafing,"-10,435","12,986",Mali,Western
+Baf2-73,Bafing,"-10,435","12,986",Mali,Western
+Baf2-74,Bafing,"-10,435","12,986",Mali,Western
+Baf2-75,Bafing,"-10,435","12,986",Mali,Western
+Bat1-1,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-10,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-11,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-14,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-15,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-16,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-18,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-19,Bateke,"-10,435","12,986",Gabon-South,Central
+Bat1-20,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-22,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-24,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-3,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-37,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-39,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-4,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-42,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-48,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-5,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-50,Bateke,"14,014","-2,089",Gabon-South,Central
+Bat1-6,Bateke,"14,014","-2,089",Gabon-South,Central
+Bil1-1,Bili,"24,811","4,186",DRC,Eastern
+Bil1-10,Bili,"24,811","4,186",DRC,Eastern
+Bil1-15,Bili,"24,811","4,186",DRC,Eastern
+Bil1-20,Bili,"24,811","4,186",DRC,Eastern
+Bil1-24,Bili,"24,811","4,186",DRC,Eastern
+Bil1-25,Bili,"24,811","4,186",DRC,Eastern
+Bil1-28,Bili,"24,811","4,186",DRC,Eastern
+Bil1-3,Bili,"24,811","4,186",DRC,Eastern
+Bil1-30,Bili,"24,811","4,186",DRC,Eastern
+Bil1-37,Bili,"24,811","4,186",DRC,Eastern
+Bil1-38,Bili,"24,811","4,186",DRC,Eastern
+Bil1-41,Bili,"24,811","4,186",DRC,Eastern
+Bil1-46,Bili,"24,811","4,186",DRC,Eastern
+Bil1-47,Bili,"24,811","4,186",DRC,Eastern
+Bil1-50,Bili,"24,811","4,186",DRC,Eastern
+Bil1-51,Bili,"24,811","4,186",DRC,Eastern
+Bil1-7,Bili,"24,811","4,186",DRC,Eastern
+Bil1-8,Bili,"24,811","4,186",DRC,Eastern
+Bili2-5,Bili,"24,811","4,186",DRC,Eastern
+Bili2-7,Bili,"24,811","4,186",DRC,Eastern
+Boe1-30,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe1-32,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe1-33,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe1-36,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe1-43,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe1-44,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe1-57,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe1-60,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe1-71,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe1-75,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe1-77,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe2-10,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe2-11,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe2-18,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe2-22,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe2-26,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe2-30,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe2-33,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe2-39,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Boe2-6,Boe,"-14,070","11,861",Guinea-Bissau,Western
+Bou1-1,Boundiale_Odienne,"-6,761","9,478",Côte d'Ivoire - North-West,Western
+Bud1-1,Budongo,"31,532","1,736",Uganda,Eastern
+Bud1-10,Budongo,"31,532","1,736",Uganda,Eastern
+Bud1-12,Budongo,"31,532","1,736",Uganda,Eastern
+Bud1-15,Budongo,"31,532","1,736",Uganda,Eastern
+Bud1-17,Budongo,"31,532","1,736",Uganda,Eastern
+Bud1-2,Budongo,"31,532","1,736",Uganda,Eastern
+Bud1-21,Budongo,"31,532","1,736",Uganda,Eastern
+Bud1-6,Budongo,"31,532","1,736",Uganda,Eastern
+Bud1-7,Budongo,"31,532","1,736",Uganda,Eastern
+Bud1-9,Budongo,"31,532","1,736",Uganda,Eastern
+Bud2-29,Budongo,"31,532","1,736",Uganda,Eastern
+Bud2-45,Budongo,"31,532","1,736",Uganda,Eastern
+Bud2-48,Budongo,"31,532","1,736",Uganda,Eastern
+Bud2-52,Budongo,"31,532","1,736",Uganda,Eastern
+Bud2-54,Budongo,"31,532","1,736",Uganda,Eastern
+Bud2-73,Budongo,"31,532","1,736",Uganda,Eastern
+Bud2-81,Budongo,"31,532","1,736",Uganda,Eastern
+Bud2-86,Budongo,"31,532","1,736",Uganda,Eastern
+Bud3-13,Budongo,"31,532","1,736",Uganda,Eastern
+Bud3-30,Budongo,"31,532","1,736",Uganda,Eastern
+Bwi-2-26,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi-2-39,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-10,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-16,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-29,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-3,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-36,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-4,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-55,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-58,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-6,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-61,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-64,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-66,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-69,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-7,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-71,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-74,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-78,Bwindi,"29,766","-1,049",Uganda,Eastern
+Bwi1-90,Bwindi,"29,766","-1,049",Uganda,Eastern
+Cam1-13,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-14,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-18,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-2,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-21,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-26,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-27,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-29,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-44,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-49,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-50,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-7,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-71,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-74,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam1-78,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam2-77,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam3-29,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam3-40,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam3-41,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Cam3-45,Mt. Cameroon,"9,143","4,351",Cameroon,Nigeria-Cameroon
+Chinko-1,Chinko,"24,305","6,155",CAR,Eastern
+Chinko-10,Chinko,"24,305","6,155",CAR,Eastern
+Chinko-12,Chinko,"24,305","6,155",CAR,Eastern
+Chinko-13,Chinko,"24,305","6,155",CAR,Eastern
+Chinko-14,Chinko,"24,305","6,155",CAR,Eastern
+Chinko-16,Chinko,"24,305","6,155",CAR,Eastern
+Chinko-3,Chinko,"24,305","6,155",CAR,Eastern
+Chinko-5,Chinko,"24,305","6,155",CAR,Eastern
+Chinko-8,Chinko,"24,305","6,155",CAR,Eastern
+CMNP1-19,Campo_Ma'an,"10,085","2,282",Cameroon,Central
+CMNP1-24,Campo_Ma'an,"10,085","2,282",Cameroon,Central
+CMNP1-43,Campo_Ma'an,"10,085","2,282",Cameroon,Central
+CMNP1-8,Campo_Ma'an,"10,085","2,282",Cameroon,Central
+CMNP2-1_B,Campo_Ma'an,"10,085","2,282",Cameroon,Central
+CMNP2-5,Campo_Ma'an,"10,085","2,282",Cameroon,Central
+CMNP2-6,Campo_Ma'an,"10,085","2,282",Cameroon,Central
+Cnp1-1,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+Cnp1-14,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+Cnp1-2,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+Cnp1-36,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+Cnp1-37,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+Cnp1-47,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+Cnp1-63,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+Cnp1-70,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+Cnp1-75,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPE1-1,Comoe,"-3,878","8,946",Côte d'Ivoire - North-East,Western
+CNPE1-12,Comoe,"-3,878","8,946",Côte d'Ivoire - North-East,Western
+CNPE1-2,Comoe,"-3,878","8,946",Côte d'Ivoire - North-East,Western
+CNPE1-22,Comoe,"-3,878","8,946",Côte d'Ivoire - North-East,Western
+CNPE1-26,Comoe,"-3,878","8,946",Côte d'Ivoire - North-East,Western
+CNPE1-3,Comoe,"-3,878","8,946",Côte d'Ivoire - North-East,Western
+CNPE1-31,Comoe,"-3,878","8,946",Côte d'Ivoire - North-East,Western
+CNPE1-36,Comoe,"-3,878","8,946",Côte d'Ivoire - North-East,Western
+CNPE1-6,Comoe,"-3,878","8,946",Côte d'Ivoire - North-East,Western
+CNPE1-7,Comoe,"-3,878","8,946",Côte d'Ivoire - North-East,Western
+CNPN1-20,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPN1-35,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPN1-63,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPW1-13,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPW1-16_2,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPW1-17,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPW1-2,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPW1-40,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPW1-7,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPW2-29,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+CNPW2-43,Comoe,"-3,915","8,965",Côte d'Ivoire - North-East,Western
+Con1-12,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-23,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-25,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-27,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-38,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-48,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-49,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-50,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-53,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-56,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-57,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-64,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-66,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-67,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-71,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con2-80,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con3-10,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Con3-8,Conkouati,"11,199","-3,947",R. Congo-South,Central
+Din1-10,Dindefelo,"-12,396","12,360",Senegal,Western
+Din1-22,Dindefelo,"-12,396","12,360",Senegal,Western
+Din1-26,Dindefelo,"-12,396","12,360",Senegal,Western
+Din1-3,Dindefelo,"-12,396","12,360",Senegal,Western
+Din1-4,Dindefelo,"-12,396","12,360",Senegal,Western
+Din1-53,Dindefelo,"-12,396","12,360",Senegal,Western
+Din1-6,Dindefelo,"-12,396","12,360",Senegal,Western
+Din1-68,Dindefelo,"-12,396","12,360",Senegal,Western
+Din1-7,Dindefelo,"-12,396","12,360",Senegal,Western
+Din2-22,Dindefelo,"-12,396","12,360",Senegal,Western
+Din2-29,Dindefelo,"-12,396","12,360",Senegal,Western
+Din2-3,Dindefelo,"-12,396","12,360",Senegal,Western
+Din2-38,Dindefelo,"-12,396","12,360",Senegal,Western
+Din2-43,Dindefelo,"-12,396","12,360",Senegal,Western
+Din2-79,Dindefelo,"-12,396","12,360",Senegal,Western
+Din2-83,Dindefelo,"-12,396","12,360",Senegal,Western
+Din3-5,Dindefelo,"-12,396","12,360",Senegal,Western
+Din3-7,Dindefelo,"-12,396","12,360",Senegal,Western
+Din3-8,Dindefelo,"-12,396","12,360",Senegal,Western
+Din3-9,Dindefelo,"-12,396","12,360",Senegal,Western
+Dja1-16,La Belgique,"13,091","3,384",Cameroon,Central
+Dja1-17,La Belgique,"13,091","3,384",Cameroon,Central
+Dja1-23,La Belgique,"13,091","3,384",Cameroon,Central
+Dja1-8,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-20,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-21,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-22,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-23,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-25,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-27,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-30,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-36,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-39,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-42,La Belgique,"13,091","3,384",Cameroon,Central
+Dja2-57,La Belgique,"13,091","3,384",Cameroon,Central
+Dja3-19,La Belgique,"13,091","3,384",Cameroon,Central
+Dja3-20,La Belgique,"13,091","3,384",Cameroon,Central
+Dja3-21,La Belgique,"13,091","3,384",Cameroon,Central
+Dja3-6,La Belgique,"13,091","3,384",Cameroon,Central
+Dja3-7,La Belgique,"13,091","3,384",Cameroon,Central
+Djo1-13,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-14,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-2,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-20,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-22,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-37,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-5,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-50,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-54,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-6,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-60,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo1-66,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo2-29,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo2-4,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo2-5,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo2-50,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo2-68,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo2-8,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo3-1,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+Djo3-2,Djouroutou,"-7,205","5,411",Côte d'Ivoire - South,Western
+El3-16,Regomuki,"27,243","-1,130",DRC,Eastern
+El3-17,Regomuki,"27,243","-1,130",DRC,Eastern
+El3-18,Maiko,"27,243","-1,130",DRC,Eastern
+El3-4,Tayna,"27,243","-1,130",DRC,Eastern
+El3-5,Tayna,"27,243","-1,130",DRC,Eastern
+El3-6,Tayna,"27,243","-1,130",DRC,Eastern
+Fjn1-10,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn1-20,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn1-21,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn1-22,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn1-42,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn2-13,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn2-50,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn2-52,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn2-62,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn2-7,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn2-9,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn3-24,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn3-43,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn3-53,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn3-54,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn3-56,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn3-68,Sobeya,"-11,433","11,059",Guinea,Western
+Fjn3-84,Sobeya,"-11,433","11,059",Guinea,Western
+Fouta1-10,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta1-17,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta1-6,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta2-8,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-1,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-15,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-25,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-29,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-30,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-32,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-34,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-35,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-37,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-38,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-40,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-51,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-55,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-80,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-82,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Fouta3-87,Bakoun_Sobory,"-11,204","11,684",Guinea,Western
+Gas1-10,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas1-17,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas1-22,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas1-23,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas1-26,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas1-27,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas1-36,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas1-5,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-14,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-19,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-23,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-28,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-29,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-34,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-37,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-4,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-40,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-55,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-67,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+Gas2-7,Gashaka,"11,579","7,325",Nigeria,Nigeria-Cameroon
+GB-10-03,Loango,"9,480","-2,078",Gabon-South,Central
+GB-11-10,Loango,"9,480","-2,078",Gabon-South,Central
+GB-11-11,Loango,"9,480","-2,078",Gabon-South,Central
+GB-13-13,Loango,"9,480","-2,078",Gabon-South,Central
+GB-13-21,Loango,"9,480","-2,078",Gabon-South,Central
+GB-14-05,Loango,"9,480","-2,078",Gabon-South,Central
+GB-22-06,Loango,"9,480","-2,078",Gabon-South,Central
+GB-25-02,Loango,"9,480","-2,078",Gabon-South,Central
+GB-25-05,Loango,"9,480","-2,078",Gabon-South,Central
+GB-28-02,Loango,"9,480","-2,078",Gabon-South,Central
+GB-29-06,Loango,"9,480","-2,078",Gabon-South,Central
+GB-30-11,Loango,"9,480","-2,078",Gabon-South,Central
+GB-34-16,Loango,"9,480","-2,078",Gabon-South,Central
+GB-34-22,Loango,"9,480","-2,078",Gabon-South,Central
+GB-36-07,Loango,"9,480","-2,078",Gabon-South,Central
+GB-36-16,Loango,"9,480","-2,078",Gabon-South,Central
+GB-37-04,Loango,"9,480","-2,078",Gabon-South,Central
+GB-37-09,Loango,"9,480","-2,078",Gabon-South,Central
+Gbo1-10,Grebo,"-7,518","5,486",Liberia,Western
+Gbo1-13,Grebo,"-7,518","5,486",Liberia,Western
+Gbo1-15,Grebo,"-7,518","5,486",Liberia,Western
+Gbo1-27,Grebo,"-7,518","5,486",Liberia,Western
+Gbo1-41,Grebo,"-7,518","5,486",Liberia,Western
+Gbo1-53,Grebo,"-7,518","5,486",Liberia,Western
+Gbo1-86,Grebo,"-7,518","5,486",Liberia,Western
+Gbo2-10,Grebo,"-7,518","5,486",Liberia,Western
+Gbo2-2,Grebo,"-7,518","5,486",Liberia,Western
+Gbo2-25,Grebo,"-7,518","5,486",Liberia,Western
+Gbo2-43,Grebo,"-7,518","5,486",Liberia,Western
+Gbo2-48,Grebo,"-7,518","5,486",Liberia,Western
+Gbo2-57,Grebo,"-7,518","5,486",Liberia,Western
+Gbo2-59,Grebo,"-7,518","5,486",Liberia,Western
+Gbo2-63,Grebo,"-7,518","5,486",Liberia,Western
+Gbo2-66,Grebo,"-7,518","5,486",Liberia,Western
+Gbo2-85,Grebo,"-7,518","5,486",Liberia,Western
+Gbo3-17,Grebo,"-7,518","5,486",Liberia,Western
+Gbo3-2,Grebo,"-7,518","5,486",Liberia,Western
+Gco1-25,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-32,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-33_2,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-37,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-39,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-42_2,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-43,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-44,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-48,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-5,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-50,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-51,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-55,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-56,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-60,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-61,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco1-8,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco2-5,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco2-7,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco2-8,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco2-9,Sangaredi,"-14,014","11,057",Guinea,Western
+Gco4-2,Sangaredi,"-14,014","11,057",Guinea,Western
+Gep1-21,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep1-23,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep1-25,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep1-26,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep1-62,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep1-65,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-10,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-20,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-28,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-29,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-30,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-37,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-40,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-41,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-45,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-48,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-52,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-53,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gep2-61,Comoe,"-3,708","8,842",Côte d'Ivoire - North-East,Western
+Gha-01-01,Bia,"-3,017","6,362",Ghana,Western
+Gha-01-04,Bia,"-3,017","6,362",Ghana,Western
+Gha-01-05,Bia,"-3,017","6,362",Ghana,Western
+Gha-01-06,Bia,"-3,017","6,362",Ghana,Western
+Gha-01-07,Bia,"-3,017","6,362",Ghana,Western
+Gha-01-08,Bia,"-3,017","6,362",Ghana,Western
+Gha-01-11,Ankasa (Zoo chimpanzee),"-2,538","5,313",Ghana,Western
+Gis1-1,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-10,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-11,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-13,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-17,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-20,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-21,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-23,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-24,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-25,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-4,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-47,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-5,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-59,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-6,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-70,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis1-8,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis2-2,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis2-50,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gis2-7,Gishwati,"29,369","-1,819",Rwanda,Eastern
+Gou1-14,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-15,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-18,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-20,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-21,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-23,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-24,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-27,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-38,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-4,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-40,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-51,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-58,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-61,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-66,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-7,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-70,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-75,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-8,Goualougo,"16,607","2,177",R. Congo-North,Central
+Gou1-9,Goualougo,"16,607","2,177",R. Congo-North,Central
+Itu-01-01,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-02,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-03,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-04,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-05,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-06,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-07,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-08,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-09,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-10,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-11,Ituri,"30,901","1,960",DRC,Eastern
+Itu-01-12,Ituri,"30,901","1,960",DRC,Eastern
+Ivi1-1,Ivindo,"12,975","0,222",Gabon-Central,Central
+Ivi1-2,Ivindo,"12,975","0,222",Gabon-Central,Central
+Kab1-1,Kabogo,"29,231","-5,422",DRC,Eastern
+Kab1-2,Kabogo,"29,231","-5,422",DRC,Eastern
+Kab1-3,Kabogo,"29,231","-5,422",DRC,Eastern
+Kab1-4,Kabogo,"29,231","-5,422",DRC,Eastern
+Kab1-5,Kabogo,"29,231","-5,422",DRC,Eastern
+Kab2-1,Kabogo,"29,231","-5,422",DRC,Eastern
+Kab2-4,Kabogo,"29,231","-5,422",DRC,Eastern
+Kab2-5,Kabogo,"29,231","-5,422",DRC,Eastern
+Kay1-12,Kayan,"-12,239","13,191",Senegal,Western
+Kay1-13,Kayan,"-12,239","13,191",Senegal,Western
+Kay1-15,Kayan,"-12,239","13,191",Senegal,Western
+Kay1-16,Kayan,"-12,239","13,191",Senegal,Western
+Kay1-17,Kayan,"-12,239","13,191",Senegal,Western
+Kay1-20,Kayan,"-12,239","13,191",Senegal,Western
+Kay1-23,Kayan,"-12,239","13,191",Senegal,Western
+Kay1-4,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-20,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-24,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-25,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-26,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-29,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-3,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-32,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-4,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-41,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-49,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-52,Kayan,"-12,239","13,191",Senegal,Western
+Kay2-54,Kayan,"-12,239","13,191",Senegal,Western
+Kor1-12,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-14,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-15,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-24,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-25,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-27,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-34,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-35,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-65,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-79,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-8,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor1-84,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor2-1,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor2-14,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor2-17,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor2-26,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor2-35,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor2-5,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+Kor2-8,Korup,"8,869","5,124",Cameroon,Nigeria-Cameroon
+LCA-3-10,Loango,"9,480","-2,078",Gabon-South,Central
+LCA-3-12,Loango,"9,480","-2,078",Gabon-South,Central
+Lib1-25D,Sapo,"-8,781","5,314",Liberia,Western
+Lib1-6-D,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-10,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-14,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-15,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-17,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-2,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-23,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-26,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-27,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-28,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-48,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-62,Sapo,"-8,781","5,314",Liberia,Western
+Lib2-66,Sapo,"-8,781","5,314",Liberia,Western
+Lib3-34,Sapo,"-8,781","5,314",Liberia,Western
+Loma2-1,Loma,"-11,107","9,169",Sierra Leone,Western
+Loma2-2,Loma,"-11,107","9,169",Sierra Leone,Western
+Loma2-3,Loma,"-11,107","9,169",Sierra Leone,Western
+Loma2-4,Loma,"-11,107","9,169",Sierra Leone,Western
+Loma2-5,Loma,"-11,107","9,169",Sierra Leone,Western
+Loma2-6,Loma,"-11,107","9,169",Sierra Leone,Western
+Loma2-7,Loma,"-11,107","9,169",Sierra Leone,Western
+Lop1-13,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop1-14,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop1-23,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop1-24,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop1-25,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-11,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-16,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-3,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-34,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-35,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-43,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-45,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-76,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-77,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-80,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-82,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop2-88,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop3-11,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop3-14,Lope,"11,601","-0,205",Gabon-Central,Central
+Lop3-20,Lope,"11,601","-0,205",Gabon-Central,Central
+Mbe-02-01,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe-02-04,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe-02-05,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe-02-07,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe-02-09,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe-02-12,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe-02-13,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-10,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-12,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-13,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-15,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-16,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-17,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-18,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-19,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-2,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-20,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-21,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-22_2,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-23,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-24,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-25,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-26,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-4,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-5,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-7,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mbe1-9,Mbe,"9,080","6,245",Nigeria,Nigeria-Cameroon
+Mtc1-26,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-40,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-43,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-54,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-55,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-56,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-58,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-63,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-66,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-67,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-71,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+Mtc1-72,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+MTC2-24,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+MTC2-31,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+MTC2-33,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+MTC2-40,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+MTC2-42,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+MTC2-5,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+MTC2-6,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+MTC2-7,MtsdeCristal,"10,305","0,330",Gabon-North,Central
+N173-11,Ngogo,"30,451","0,486",Uganda,Eastern
+N173-14,Ngogo,"30,451","0,486",Uganda,Eastern
+N173-17,Ngogo,"30,451","0,486",Uganda,Eastern
+N181-11,Ngogo,"30,451","0,486",Uganda,Eastern
+N181-14,Ngogo,"30,451","0,486",Uganda,Eastern
+N182-2,Ngogo,"30,451","0,486",Uganda,Eastern
+N183-5,Ngogo,"30,451","0,486",Uganda,Eastern
+N183-6,Ngogo,"30,451","0,486",Uganda,Eastern
+N186-8,Ngogo,"30,451","0,486",Uganda,Eastern
+N186-9,Ngogo,"30,451","0,486",Uganda,Eastern
+N190-3,Ngogo,"30,451","0,486",Uganda,Eastern
+N259-5,Ngogo,"30,451","0,486",Uganda,Eastern
+N259-6,Ngogo,"30,451","0,486",Uganda,Eastern
+N259-8,Ngogo,"30,451","0,486",Uganda,Eastern
+N260-10,Ngogo,"30,451","0,486",Uganda,Eastern
+N260-6,Ngogo,"30,451","0,486",Uganda,Eastern
+N260-8,Ngogo,"30,451","0,486",Uganda,Eastern
+N261-3,Ngogo,"30,451","0,486",Uganda,Eastern
+N261-5,Ngogo,"30,451","0,486",Uganda,Eastern
+N262-4,Ngogo,"30,451","0,486",Uganda,Eastern
+Ngi1-1,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi1-2,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi1-3,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi1-4,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi1-5,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi1-7,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi1-8,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi2-1,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi2-3,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi2-4,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi2-5,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi2-6,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi2-7,Ngiri,"17,892","-0,016",DRC,Eastern
+Ngi2-8,Ngiri,"17,892","-0,016",DRC,Eastern
+Nim1-10,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-2,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-3,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-47,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-49,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-5,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-51,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-52,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-7,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-77,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-78,East Nimba,"-8,579","7,428",Liberia,Western
+Nim1-79,East Nimba,"-8,579","7,428",Liberia,Western
+Nim2-12,East Nimba,"-8,579","7,428",Liberia,Western
+Nim2-17,East Nimba,"-8,579","7,428",Liberia,Western
+Nim2-3,East Nimba,"-8,579","7,428",Liberia,Western
+Nim2-33,East Nimba,"-8,579","7,428",Liberia,Western
+Nim2-34,East Nimba,"-8,579","7,428",Liberia,Western
+Nim2-35,East Nimba,"-8,579","7,428",Liberia,Western
+Nim2-44,East Nimba,"-8,579","7,428",Liberia,Western
+Nim2-58,East Nimba,"-8,579","7,428",Liberia,Western
+NNP1-11,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP1-15,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP1-26,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP1-34,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP1-40,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP1-44,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP1-54,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP1-57,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP1-77,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP1-86,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP2-2,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP2-35,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP2-4,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP2-54,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP2-55,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP2-67,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP2-68,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP2-74,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP2-79,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+NNP3-14,Nyungwe,"29,224","-2,460",Rwanda,Eastern
+Onp1-11,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-12,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-2,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-20,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-21,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-24,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-25,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-26,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-27,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-28,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-29,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-31,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-32,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-34,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-35,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-39,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-6,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-7,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-8,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Onp1-9,Outamba-Kilimi,"-12,160","9,685",Sierra Leone,Western
+Rt1-1,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt1-2,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt1-5,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt1-7,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt1-8,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-1,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-14,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-21,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-22,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-24,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-25,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-26_2,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-31,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-35,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-37,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-38,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-41,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-6,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-7,Rubi-Tele,"25,077","2,417",DRC,Eastern
+Rt2-8,Rubi-Tele,"25,077","2,417",DRC,Eastern
+San1-13,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San1-17,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San1-19,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San1-2,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San1-20,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San1-22,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San1-3,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San1-32,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San1-39,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San1-4,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San2-1,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San2-10,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San2-13,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San2-16,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San2-20,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San2-26,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San2-48,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San2-49,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San2-53,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+San2-59,MtSangbe,"-7,303","8,009",Côte d'Ivoire - North-West,Western
+Sob1-24,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-27,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-31,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-32,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-33,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-4,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-47,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-5,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-56,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-57,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-6,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-7,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-77,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-83_2,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob1-84,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob2-12,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob2-3,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob2-37,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob2-43,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Sob2-5,Bakoun_Sobory,"-11,214","11,811",Guinea,Western
+Tai_R1-23,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R1-26,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R1-28,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R1-4,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-13,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-15,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-16,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-18,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-22,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-30,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-4,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-43,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-5,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-52,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-57,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-6,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-8,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-80,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-88,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai_R2-9,Tai_forest,"-7,333","5,867",Côte d'Ivoire - South,Western
+Tai-E1-13,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E1-42,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E1-50,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E1-52,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E1-54,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E1-55,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E1-56,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E1-58,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E1-60,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E1-7,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E1-8,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E2-11,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E2-18,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E2-29,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E2-31,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E2-35,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E2-48,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E2-51,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Tai-E2-8,Tai_forest,"-7,314","5,893",Côte d'Ivoire - South,Western
+Uga1-1,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga1-11,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga1-12,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga1-17,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga1-22,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga1-34,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga1-9,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-1,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-22,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-28,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-31,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-41,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-44,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-46,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-49,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-53,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-73,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-74,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga2-81,Issa Valley,"30,565","-5,493",Tanzania,Eastern
+Uga3-29,Issa Valley,"30,565","-5,493",Tanzania,Eastern
