@@ -1,4 +1,4 @@
-## Classification of chimp procedence via DNA samples
+## Geolocalisation of chimpanzee samples using DNA 
 
 The goal of our project was to classify DNA samples extracted from stool samples.
 
