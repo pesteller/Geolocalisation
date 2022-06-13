@@ -3,6 +3,9 @@
 ### 1. Background
 Humans have been traditionally fascinated by their closest related species, the chimpanzees, though at the same time, human activities have led to a drastic decline in the population size of the chimpanzees. This has been mainly caused by the wildlife trade, habitat destruction, poaching for local consumption and human linked disease outbreaks, among many others. In this regard, genetic information has proven useful to infer the populations of origin of confiscated individuals from illegal trade, detect poaching hotspots, and guide repatriation planning. Taking advantage of the most complete chimpanzee genetic map ever generated, here we implement a machine-learning geolocalisation approach, demonstrating its precision and robustness in determining the origin of confiscated chimpanzees.
 
+![alt text]( https://ars.els-cdn.com/content/image/1-s2.0-S2666979X22000623-fx1_lrg.jpg)
+
+
 ### 2. Objectives
 To take advantage of an extensive dataset on genomic variation in georeferenced chimpanzees to develop a machine-learning-based tool for the geolocation of chimpanzee samples which can be further implemented in other species.
 
