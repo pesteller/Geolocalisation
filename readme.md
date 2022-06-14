@@ -20,13 +20,28 @@ To know more about what it means to work with fecal samples, please have a look 
 
 
 ### 3. Data processing
++ Notebooks/Geolocalisation - Notebook 1. Data preprocessing.ipynb
 
 #### 3.1. Quality control plots
++ Notebooks/Geolocalisation - Notebook 1. Data preprocessing.ipynb
 
 ### 4. Modelling
+The modelling section has been divided into three different subsections, each of which aimed at assessing a different scenario.
 
 #### 4.1. Classification of subspecies
+This section has been devoted to implementing classifiers that can predict the subspecies of the samples. The classifiers that have been used are:
+1. Random Forest
+2. Nearest Neighbors
+3. Support Vector Machine
+4. Naive Bayes
+
+The code used in this section can be found in *Notebooks/Geolocalisation - Notebook 2.1. Modelling genomic data - SUBSPECIES.ipynb*
 
 #### 4.2. Classification of sampling site
+In this section we have assessed the perfomance of different classifier to predict the sampling site of the samples. Based on the performance of the different classifiers in sectin 4.1, the classifiers that have been used are:
+1. Random Forest
+2. Nearest Neighbors
+3. Support Vector Machine
 
+The code used in this section can be found in *Notebooks/Geolocalisation - Notebook 2.1. Modelling genomic data - SAMPLINGSITE.ipynb*
 #### 4.3. Geographic prediction
