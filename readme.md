@@ -26,10 +26,10 @@ This section includes the data processing steps for filtering the data before mo
 All data needed to replicate these results, either raw or filtered, can be found in the following [link](https://drive.google.com/drive/folders/1wroGkFZRI2MDLKRSgFWfLus0v7Kj9W94?usp=sharing).
 
 ### 5. Modelling
-The modelling section has been divided into three different subsections, each of which aimed at assessing a different scenario.
+The modelling section has been divided into three different subsections, each of which aimed at evaluating different approaches.
 
 #### 5.1. Classification of subspecies
-This section has been devoted to implementing classifiers that can predict the subspecies of the samples. The classifiers that have been used are:
+This section has been aimed at implementing classifiers that can predict the subspecies of the samples. The classifiers that have been evaluated are:
 1. Random Forest
 2. Nearest Neighbor
 3. Support Vector Machine
@@ -38,7 +38,7 @@ This section has been devoted to implementing classifiers that can predict the s
 The code used in this section can be found in *Notebooks/Geolocalisation - Notebook 2.1. Modelling genomic data - SUBSPECIES.ipynb*
 
 #### 5.2. Classification of sampling site
-In this section we have assessed the perfomance of different classifier to predict the sampling site of the samples. Based on the performance of the different classifiers in sectin 4.1, the classifiers that have been used are:
+In this section we have assessed the perfomance of different classifiers to predict the sampling site of the chimpanzee samples. Based on the performance of the different classifiers in Section 5.1, the classifiers that have been evaluated are:
 1. Random Forest
 2. Nearest Neighbor
 3. Support Vector Machine
