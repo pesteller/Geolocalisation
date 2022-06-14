@@ -46,3 +46,11 @@ In this section we have assessed the perfomance of different classifiers to pred
 The code used in this section can be found in *Notebooks/Geolocalisation - Notebook 2.2. Modelling genomic data - SAMPLINGSITE.ipynb*
 
 #### 5.3. Geographic prediction
+
+As we have the information regarding the coordinates of each sample, we used it to create regression models and predict the relative area where a sample was taken from. We used the following models:
+1. Linear Regression
+2. K Nearest Neighbors Regression
+
+The code used in this section can be found in *Notebooks/Geolocalisation - Notebook 2.3. Modelling genomic data - Geographical prediction
+.ipynb*
+
