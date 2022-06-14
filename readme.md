@@ -23,6 +23,8 @@ This section includes the data processing steps for filtering the data before mo
 + *Notebooks/Geolocalisation - Notebook 1.1. Data preprocessing.ipynb*: this Notebook includes the pre-processing and filtering steps applied to the data.
 + *Notebooks/Geolocalisation - Notebook 1.2. Quality Control.Rmd*: this R Notebook includes code used for plotting the data after filtering.
 
+All data needed to replicate these results, either raw or filtered, can be found in the following [link](https://drive.google.com/drive/folders/1wroGkFZRI2MDLKRSgFWfLus0v7Kj9W94?usp=sharing).
+
 ### 5. Modelling
 The modelling section has been divided into three different subsections, each of which aimed at assessing a different scenario.
 
