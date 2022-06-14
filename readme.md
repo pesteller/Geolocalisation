@@ -21,7 +21,7 @@ To know more about what it means to work with fecal samples, please have a look 
 ### 4. Data processing
 This section includes the data processing steps for filtering the data before modelling. This has been done by using two Notebooks:
 + *Notebooks/Geolocalisation - Notebook 1.1. Data preprocessing.ipynb*: this Notebook includes the pre-processing and filtering steps applied to the data.
-+ *Notebooks/Geolocalisation - Notebook 1.2. Quality Control.Rmd*: this R Notebook includes code used for plotting the data after filtering.
++ *Notebooks/Geolocalisation - Notebook 1.2. Quality Control.Rmd*: this R Notebook includes code used for plotting the data after filtering. This Notebook is analogous to the *Notebooks/Geolocalisation - Notebook 1.2. Quality Control.R* file.
 
 All data needed to replicate these results, either raw or filtered, can be found in the following [link](https://drive.google.com/drive/folders/1wroGkFZRI2MDLKRSgFWfLus0v7Kj9W94?usp=sharing).
 
