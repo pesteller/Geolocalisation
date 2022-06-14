@@ -18,15 +18,29 @@ The dataset used for this project was retrieved from [Fontsere et al. 2022](http
 
 To know more about what it means to work with fecal samples, please have a look at the following [video](https://www.youtube.com/watch?v=Fv_LzqCeFoI&t=1457s) (in Catalan). It explains the methodology and main aim of geoposition in the context of Gorillas instead of Chimpanzees and it is less than 4 minutes-long!
 
+### 4. Data processing
+This section includes the data processing steps for filtering the data before modelling. This has been done by using two Notebooks:
++ *Notebooks/Geolocalisation - Notebook 1.1. Data preprocessing.ipynb*: this Notebook includes the pre-processing and filtering steps applied to the data.
++ *Notebooks/Geolocalisation - Notebook 1.2. Quality Control.Rmd*: this R Notebook includes code used for plotting the data after filtering.
 
-### 3. Data processing
+### 5. Modelling
+The modelling section has been divided into three different subsections, each of which aimed at assessing a different scenario.
 
-#### 3.1. Quality control plots
+#### 5.1. Classification of subspecies
+This section has been devoted to implementing classifiers that can predict the subspecies of the samples. The classifiers that have been used are:
+1. Random Forest
+2. Nearest Neighbors
+3. Support Vector Machine
+4. Naive Bayes
 
-### 4. Modelling
+The code used in this section can be found in *Notebooks/Geolocalisation - Notebook 2.1. Modelling genomic data - SUBSPECIES.ipynb*
 
-#### 4.1. Classification of subspecies
+#### 5.2. Classification of sampling site
+In this section we have assessed the perfomance of different classifier to predict the sampling site of the samples. Based on the performance of the different classifiers in sectin 4.1, the classifiers that have been used are:
+1. Random Forest
+2. Nearest Neighbors
+3. Support Vector Machine
 
-#### 4.2. Classification of sampling site
+The code used in this section can be found in *Notebooks/Geolocalisation - Notebook 2.2. Modelling genomic data - SAMPLINGSITE.ipynb*
 
-#### 4.3. Geographic prediction
+#### 5.3. Geographic prediction
